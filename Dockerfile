@@ -1,1 +1,1 @@
-FROM n8nio/n8n:latest
+FROM docker.n8n.io/n8nio/n8n:1.120.4
